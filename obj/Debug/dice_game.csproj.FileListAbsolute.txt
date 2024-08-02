@@ -1,0 +1,6 @@
+c:\users\php\downloads\documents\visual studio 2015\Projects\dice_game\dice_game\bin\Debug\dice_game.exe.config
+c:\users\php\downloads\documents\visual studio 2015\Projects\dice_game\dice_game\bin\Debug\dice_game.exe
+c:\users\php\downloads\documents\visual studio 2015\Projects\dice_game\dice_game\bin\Debug\dice_game.pdb
+c:\users\php\downloads\documents\visual studio 2015\Projects\dice_game\dice_game\obj\Debug\dice_game.csprojResolveAssemblyReference.cache
+c:\users\php\downloads\documents\visual studio 2015\Projects\dice_game\dice_game\obj\Debug\dice_game.exe
+c:\users\php\downloads\documents\visual studio 2015\Projects\dice_game\dice_game\obj\Debug\dice_game.pdb
